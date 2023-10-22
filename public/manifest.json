@@ -1,0 +1,25 @@
+{
+  "short_name": "SaveCo Dashboard",
+  "name": "SaveCo Dashboard",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x317"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#940C0C",
+  "background_color": "#FAFAFA"
+}
